@@ -64,7 +64,7 @@ The dataset used is **heart.csv**, which contains the following columns:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/heart-disease-prediction.git
+git clone https://github.com/SAHIL-AGARWAL-IN/Heart-Dataset-Naive-Bayes.git
 ```
 
 ### 2️⃣ Navigate to the Project Folder
